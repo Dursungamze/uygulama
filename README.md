@@ -1,0 +1,2 @@
+# uygulama
+odev1
